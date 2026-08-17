@@ -24,16 +24,37 @@ I like building across the stack, experimenting with AI, and figuring out how di
 
 <table>
 <tr>
+<td width="33%" align="center" valign="top">
 
-<td width="33%" align="center">
+<h3>🧠 AI-Powered Applications</h3>
 
-### 🧠 AI-Powered Applications
-
+<p>
 Building applications where AI is part of the product — not just something bolted onto it.
+</p>
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
+
+<h3>🌐 Full-Stack Systems</h3>
+
+<p>
+Working across frontend, backend, APIs, databases, and everything in between.
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🛠️ Tools & Experiments</h3>
+
+<p>
+Exploring ideas, building side projects, and experimenting with technology just to see what happens.
+</p>
+
+</td>
+</tr>
+</table>
 
 ### 🌐 Full-Stack Systems
 
@@ -61,33 +82,49 @@ Exploring ideas, building side projects, and experimenting with technology just 
 
 <td width="50%" valign="top">
 
-### 🩺 Arogya AI
+<h3>🩺 Arogya AI</h3>
 
-An AI-powered health guidance application designed to provide personalized guidance, symptom analysis, and health insights.
+<p><strong>AI-powered health guidance</strong></p>
 
-**Built with**
+<p>
+An AI-powered application that provides personalized health guidance,
+symptom analysis, and useful health insights.
+</p>
 
-`React` `FastAPI` `MongoDB` `Gemini API`
+<p>
+<code>React</code>
+<code>FastAPI</code>
+<code>MongoDB</code>
+<code>Gemini API</code>
+</p>
 
-<br>
-
-[**View Repository →**](https://github.com/JayanthKJ/Arogya-AI.git)
+<p>
+<a href="https://github.com/JayanthKJ/Arogya-AI">→ View Repository</a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌱 EcoGrid AI
+<h3>🌱 EcoGrid AI</h3>
 
-An AI-driven system for estimating and predicting carbon emissions using data-driven approaches to support more sustainable decisions.
+<p><strong>AI-driven carbon emission estimation</strong></p>
 
-**Built with**
+<p>
+A machine-learning system that estimates and predicts carbon emissions
+using real-world data to support more sustainable decisions.
+</p>
 
-`Python` `LightGBM` `Linear Regression` `Pandas`
+<p>
+<code>Python</code>
+<code>LightGBM</code>
+<code>Linear Regression</code>
+<code>Pandas</code>
+</p>
 
-<br>
-
-[**View Repository →**](https://github.com/JayanthKJ/EcoGridAI)
+<p>
+<a href="https://github.com/JayanthKJ/EcoGridAI">→ View Repository</a>
+</p>
 
 </td>
 
@@ -146,15 +183,15 @@ An AI-driven system for estimating and predicting carbon emissions using data-dr
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-### 🎮
+### 🎮 Games
 
 I sometimes spend more time deciding what to build than actually building it.
 
 </td>
 
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
 ### ☕
 
@@ -162,17 +199,21 @@ I like taking things apart just to understand how they work — software include
 
 </td>
 
-<td width="25%" align="center">
+</tr>
 
-### 🧠
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Curiosity
 
 I enjoy the moment when a random idea turns into something I can actually run.
 
 </td>
 
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-### 🏍️
+### 🏍️ Outside the Screen
 
 Bikes, tech, movies, and the occasional deep dive into something I probably didn't need to research.
 
@@ -188,12 +229,29 @@ Bikes, tech, movies, and the occasional deep dive into something I probably didn
 <div align="center">
 
 <a href="https://github.com/JayanthKJ">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JayanthKJ&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img
+  src="https://github-stats-extended.vercel.app/api?username=JayanthKJ&show_icons=true&theme=github_dark&hide_border=true"
+  height="180"
+  alt="Jayanth KJ's GitHub Stats"
+/>
 </a>
 
 <a href="https://github.com/JayanthKJ">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthKJ&layout=compact&hide_border=true&theme=transparent" />
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=JayanthKJ&layout=compact&theme=github_dark&hide_border=true"
+  height="180"
+  alt="Jayanth KJ's Top Languages"
+/>
 </a>
+
+</div>
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=JayanthKJ&theme=github-compact&hide_border=true"
+  alt="Jayanth KJ's GitHub Activity Graph"
+/>
 
 </div>
 
@@ -203,7 +261,13 @@ Bikes, tech, movies, and the occasional deep dive into something I probably didn
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jayanth-k-j)
+<a href="https://in.linkedin.com/in/jayanth-k-j">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:jayanthkj03@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
