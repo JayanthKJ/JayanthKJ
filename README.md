@@ -6,11 +6,7 @@
 
 **Building software • Exploring AI • Making things that work**
 
-[![GitHub](https://img.shields.io/badge/GitHub-JayanthKJ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayanthKJ)
-
 </div>
-
----
 
 ## 👨🏻‍💻 About Me
 
@@ -18,13 +14,12 @@ I'm a Computer Science & Engineering student at SJCE, Mysuru, who enjoys turning
 
 I like building across the stack, experimenting with AI, and figuring out how different pieces of technology come together to solve real problems.
 
----
-
 ## 🧩 What I Like Building
 
-<table>
+<table style="border: none; border-collapse: collapse; width: 100%;">
 <tr>
-<td width="33%" align="center" valign="top">
+
+<td width="33%" align="center" valign="top" style="border: none; padding: 15px;">
 
 <h3>🧠 AI-Powered Applications</h3>
 
@@ -34,7 +29,7 @@ Building applications where AI is part of the product — not just something bol
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center" valign="top" style="border: none; padding: 15px;">
 
 <h3>🌐 Full-Stack Systems</h3>
 
@@ -44,7 +39,7 @@ Working across frontend, backend, APIs, databases, and everything in between.
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center" valign="top" style="border: none; padding: 15px;">
 
 <h3>🛠️ Tools & Experiments</h3>
 
@@ -53,34 +48,16 @@ Exploring ideas, building side projects, and experimenting with technology just 
 </p>
 
 </td>
-</tr>
-</table>
-
-### 🌐 Full-Stack Systems
-
-Working across frontend, backend, APIs, databases, and everything in between.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🛠️ Tools & Experiments
-
-Exploring ideas, building side projects, and experimenting with technology just to see what happens.
-
-</td>
 
 </tr>
 </table>
-
----
 
 ## 🚀 Featured Projects
 
-<table>
+<table style="border: none; border-collapse: collapse; width: 100%;">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none; padding: 18px;">
 
 <h3>🩺 Arogya AI</h3>
 
@@ -94,17 +71,19 @@ symptom analysis, and useful health insights.
 <p>
 <code>React</code>
 <code>FastAPI</code>
-<code>MongoDB</code>
+<code>PostgreSQL</code>
 <code>Gemini API</code>
 </p>
 
 <p>
-<a href="https://github.com/JayanthKJ/Arogya-AI">→ View Repository</a>
+<a href="https://github.com/JayanthKJ/Arogya-AI">→ Repository</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://arogya.jaykj.xyz/">Live Demo ↗</a>
 </p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none; padding: 18px;">
 
 <h3>🌱 EcoGrid AI</h3>
 
@@ -123,15 +102,13 @@ using real-world data to support more sustainable decisions.
 </p>
 
 <p>
-<a href="https://github.com/JayanthKJ/EcoGridAI">→ View Repository</a>
+<a href="https://github.com/JayanthKJ/EcoGridAI">→ Repository</a>
 </p>
 
 </td>
 
 </tr>
 </table>
-
----
 
 ## ⚙️ Tech Stack
 
@@ -176,14 +153,12 @@ using real-world data to support more sustainable decisions.
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
----
-
 ## ⚡ Beyond the Code
 
-<table>
+<table style="border: none; border-collapse: collapse; width: 100%;">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none; padding: 15px;">
 
 ### 🎮 Games
 
@@ -191,11 +166,11 @@ I sometimes spend more time deciding what to build than actually building it.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none; padding: 15px;">
 
 ### ☕
 
-I like taking things apart just to understand how they work — software included.
+Strong believer that the first solution is usually not the final solution.
 
 </td>
 
@@ -203,26 +178,24 @@ I like taking things apart just to understand how they work — software include
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none; padding: 15px;">
 
-### 🧠 Curiosity
+### 🧠
 
-I enjoy the moment when a random idea turns into something I can actually run.
+I like taking things apart just to understand how they work — software included.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none; padding: 15px;">
 
-### 🏍️ Outside the Screen
+### 🏍️
 
-Bikes, tech, movies, and the occasional deep dive into something I probably didn't need to research.
+Bikes, tech, movies, and the occasional completely unnecessary deep dive into something I was probably not supposed to spend three hours researching.
 
 </td>
 
 </tr>
 </table>
-
----
 
 ## 📊 GitHub Activity
 
@@ -230,7 +203,7 @@ Bikes, tech, movies, and the occasional deep dive into something I probably didn
 
 <a href="https://github.com/JayanthKJ">
 <img
-  src="https://github-stats-extended.vercel.app/api?username=JayanthKJ&show_icons=true&theme=github_dark&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api?username=JayanthKJ&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true&include_all_commits=true"
   height="180"
   alt="Jayanth KJ's GitHub Stats"
 />
@@ -238,7 +211,7 @@ Bikes, tech, movies, and the occasional deep dive into something I probably didn
 
 <a href="https://github.com/JayanthKJ">
 <img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=JayanthKJ&layout=compact&theme=github_dark&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=JayanthKJ&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
   height="180"
   alt="Jayanth KJ's Top Languages"
 />
@@ -246,16 +219,17 @@ Bikes, tech, movies, and the occasional deep dive into something I probably didn
 
 </div>
 
+<br>
+
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=JayanthKJ&theme=github-compact&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=JayanthKJ&theme=github-compact&hide_border=true&days=30&area=true"
+  width="100%"
   alt="Jayanth KJ's GitHub Activity Graph"
 />
 
 </div>
-
----
 
 ## 🌐 Let's Connect
 
@@ -265,7 +239,7 @@ Bikes, tech, movies, and the occasional deep dive into something I probably didn
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:jayanthkj03@gmail.com">
+<a href="mailto:jayanthkj92@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
