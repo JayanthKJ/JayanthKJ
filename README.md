@@ -198,16 +198,6 @@ Bikes, tech, movies, and the occasional completely unnecessary deep dive into so
 
 </div>
 
-<div align="center">
-
-<img
-  src="https://profilekit.vercel.app/api/snake?username=JayanthKJ&theme=dark&color=3B82F6&empty_color=161B22&cols=53&rows=7&duration=24"
-  width="100%"
-  alt="Jayanth K J's GitHub contribution activity"
-/>
-
-</div>
-
 <!-- ========================= -->
 <!-- CONNECT -->
 <!-- ========================= -->
